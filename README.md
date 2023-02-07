@@ -1,6 +1,6 @@
 # DataMining
 Practical sessions for Data Mining
-test
+
 ## Français
 ### Sujets de travaux pratiques et projet
 * [Instructions](fr/README.md)
